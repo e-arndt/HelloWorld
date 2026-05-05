@@ -1,0 +1,11 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Simple Hello World CLI to verify development environment and workflow setup.",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "author": "Eric Arndt",
+  "license": "ISC"
+}
