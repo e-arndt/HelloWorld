@@ -1,6 +1,6 @@
 # Overview
 
-As aa aspiring software engineer, I'm working to build a solid and reliable workflow that includes writing code, testing it, and publishing it through version control. This project is the first step to ensure that my environment is correctly configured and that I can successfully move code from development to a repository.
+As an aspiring software engineer, I'm working to build a solid and reliable workflow that includes writing code, testing it, and publishing it through version control. This project is the first step to ensure that my environment is correctly configured and that I can successfully move code from development to a repository.
 
 This software is a simple command-line program that outputs text to the terminal. When executed, it displays a "Hello World" message box that includes a short custom message to confirm successful execution.
 
