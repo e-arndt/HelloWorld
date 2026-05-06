@@ -11,8 +11,9 @@ console.log("|          Hello World!                      |");
 console.log("|          This is my first software         |");
 console.log("|          activity for CSE 310.             |");
 console.log("|____________________________________________|");
-console.log("");
 
+// Add an empty line for better readability
+console.log("");
 
 // Reset terminal colors back to default
 console.log("\x1b[0m");
