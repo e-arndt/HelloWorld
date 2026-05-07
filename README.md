@@ -6,7 +6,7 @@ This software is a simple command-line program that outputs text to the terminal
 
 The purpose of creating this software is to verify that my development tools are properly installed and working together, including my editor, runtime environment, and GitHub. It also sets a baseline process that I will follow for future, more complex projects.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] See Hello World assignment document, Canvas upload comment or Teams channel for video link.
 
 # Development Environment
 
